@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap");
+button, button:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.font-baloo {
+  font-family: "Baloo Thambi 2", cursive;
+}
+
+.font-rale {
+  font-family: "Raleway", cursive;
+}
+
+.font-rubik {
+  font-family: "Rubik", cursive;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+.color-primary {
+  color: #C7A17A;
+}
+
+.color-primary-bg {
+  background: #C7A17A;
+}
+
+.color-second {
+  color: #030303;
+}
+
+.color-second-bg {
+  background: #030303;
+}
+
+.color-yellow {
+  color: #FFD289;
+}
+
+.color-yellow-bg {
+  background: #FFD289;
+}
+
+#coffee .owl-carousel .item .product a {
+  overflow: hidden;
+}
+#coffee .owl-carousel .item .product img {
+  transition: transform 0.5s ease;
+}
+#coffee .owl-carousel .item .product img:hover {
+  transform: scale(1.1);
+}
+#coffee .owl-carousel .owl-nav button {
+  position: absolute;
+  top: 30%;
+  outline: none;
+}
+#coffee .owl-carousel .owl-nav button.owl-prev {
+  left: 0;
+}
+#coffee .owl-carousel .owl-nav button.owl-prev span {
+  font-size: 35px;
+  color: #C7A17A;
+  margin-left: -4rem;
+  padding: 0 1rem;
+}
+#coffee .owl-carousel .owl-nav button.owl-next {
+  right: 0;
+}
+#coffee .owl-carousel .owl-nav button.owl-next span {
+  font-size: 35px;
+  color: #C7A17A;
+  margin-right: -4rem;
+  padding: 0 1rem;
+}
+
+#tea .owl-carousel .item .product a {
+  overflow: hidden;
+}
+#tea .owl-carousel .item .product img {
+  transition: transform 0.5s ease;
+}
+#tea .owl-carousel .item .product img:hover {
+  transform: scale(1.1);
+}
+#tea .owl-carousel .owl-nav button {
+  position: absolute;
+  top: 30%;
+  outline: none;
+}
+#tea .owl-carousel .owl-nav button.owl-prev {
+  left: 0;
+}
+#tea .owl-carousel .owl-nav button.owl-prev span {
+  font-size: 35px;
+  color: #C7A17A;
+  margin-left: -4rem;
+  padding: 0 1rem;
+}
+#tea .owl-carousel .owl-nav button.owl-next {
+  right: 0;
+}
+#tea .owl-carousel .owl-nav button.owl-next span {
+  font-size: 35px;
+  color: #C7A17A;
+  margin-right: -4rem;
+  padding: 0 1rem;
+}
+
+/*# sourceMappingURL=style.css.map */
